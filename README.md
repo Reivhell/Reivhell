@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Reishi
+# 👋 Hi there, I'm Duke Prince  
 
 🎓 I'm an IT student at a private university in Kalimantan  
 💻 Beginner in **Python**, **HTML**, **CSS**, and **JavaScript**  
@@ -26,7 +26,8 @@
 ---
 
 ## 🎮 Pac-Man Corner
-![Pac-Man](https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif)  
+
+![Pac-Man](./pacman.gif)
 
 Do you like Pac-Man?  
 👉 [Click here to play Pac-Man online](https://pacman.js.org/)  
