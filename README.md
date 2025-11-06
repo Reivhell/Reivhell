@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Duke Prince  
+# 👋 Hi there, I'm Reishi  
 
 🎓 I'm an IT student at a private university in Kalimantan  
 💻 Beginner in **Python**, **HTML**, **CSS**, and **JavaScript**  
