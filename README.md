@@ -30,7 +30,7 @@ I like keeping things simple. Most of my time is spent learning new stuff, writi
 ---
 
 ## Connect
-Instagram: https://instagram.com/[username_ig_lu]
+Instagram: https://instagram.com/sheznael
 
 ---
 
