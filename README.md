@@ -1,35 +1,40 @@
-# 👋 Hi there, I'm Reishi  
+<!-- Cozy Pixel Header -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3a/15/0f/3a150f5cedc7f2f6f34f491e480d0b52.gif" width="500" />
+</p>
 
-🎓 I'm an IT student at a private university in Kalimantan  
-💻 Beginner in **Python**, **HTML**, **CSS**, and **JavaScript**  
-🎶 Love listening to music & singing in my free time  
-🎮 Enjoy playing and coding simple games  
-
----
-
-## 🛠️ Tech Stack
-- Python 🐍  
-- HTML + CSS 🌐  
-- JavaScript ⚡  
+<p align="center">
+  <h2 align="center">Hi, I'm Shezzle</h2>
+  <p align="center">Just a student who codes, learns, and listens to music.</p>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dukePrince&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukePrince&layout=compact&theme=tokyonight)
+## About Me
+I like keeping things simple. Most of my time is spent learning new stuff, writing small pieces of code, and listening to music while exploring ideas. I enjoy cozy, calm atmospheres and anything with pixel-art vibes.
 
 ---
 
-## 🎵 Fun Fact
-> "Code + Music = Perfect Harmony 🎤🎶"
+## Skills
+- Python  
+- SQL
 
 ---
 
-## 🎮 Pac-Man Corner
-
-![Pac-Man](./pacman.gif)
-
-Do you like Pac-Man?  
-👉 [Click here to play Pac-Man online](https://pacman.js.org/)  
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shezzle&show_icons=false&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shezzle&layout=compact&theme=transparent" width="48%" />
+</p>
 
 ---
+
+## Connect
+Instagram: https://instagram.com/[username_ig_lu]
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7e/7d/31/7e7d31c1530e1d74e6f386bb2d58c757.gif" width="300" />
+</p>
+
