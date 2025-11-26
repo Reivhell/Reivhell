@@ -23,8 +23,7 @@ I like keeping things simple. Most of my time is spent learning new stuff, writi
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shezzle&show_icons=false&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shezzle&layout=compact&theme=transparent" width="48%" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reivhell)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
