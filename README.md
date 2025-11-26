@@ -1,52 +1,68 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1ODc1Y2ExZTVjNTQ5ZjQ5ZjQ5ZjQ5ZjQ5ZjQ5ZjQ5ZjQ5ZjQ5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/U3qYN8S0j3bpK/giphy.gif" width="600" alt="Pixel Art Campfire">
+![Pixel Banner](https://i.imgur.com/5M9VGN3.gif)
 
-  <br/><br/>
+# Hi, I'm Shezzle
 
-  # Hi, I'm Shezzle
+</div>
 
-  <p>
-    Welcome to my space. I am a student who enjoys learning and building small things. <br/>
-    Most of my time is spent coding or listening to music.
-  </p>
+---
 
-  <br/>
+## About Me
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-9577c6c6-9b93-4a1e-92a5-4e320573719a.gif" width="100%">
+I'm a student who enjoys the quieter side of things. I spend my time learning new concepts, writing code, and listening to music that matches whatever mood the day brings. 
 
-  <br/>
+I like keeping things simple and finding small ways to make projects feel personal. Coding is something I do for fun, not just work. There's something satisfying about building things piece by piece, even if they're just experiments.
 
-  <h3>Skills</h3>
-  
-  <code>Python</code> &nbsp; <code>SQL</code>
+---
 
-  <br/><br/>
+## Skills
 
-  <h3>About Me</h3>
-  
-  <p>
-    I enjoy discovering new music and coding for the fun of it. <br/>
-    I believe in keeping things simple, clean, and functional. <br/>
-    My workflow is usually casual and relaxed.
-  </p>
+**Languages I work with:**
 
-  <br/>
+- Python
+- SQL
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-9577c6c6-9b93-4a1e-92a5-4e320573719a.gif" width="100%">
+I focus on learning fundamentals well rather than rushing through everything. Clean code and thoughtful problem-solving matter more to me than flashy tricks.
 
-  <br/><br/>
+---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shezzle&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true" height="150" alt="Shezzle's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shezzle&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" height="150" alt="Shezzle's Top Languages" />
+## What I'm Into
 
-  <br/><br/>
+I'm drawn to calm, focused work. Music is always playing in the background while I code. I appreciate minimalist design and pixel art aesthetics. There's a cozy feeling in late-night coding sessions when everything else is quiet.
 
-  <h3>Connect</h3>
-  
-  <a href="LINK_TO_YOUR_INSTAGRAM">Instagram</a>
+I believe in learning at your own pace and building things that feel meaningful, even if they're small.
 
-  <br/><br/>
-  
+---
+
+<div align="center">
+
+## GitHub Stats
+
+![Shezzle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shezzle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shezzle&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6)
+
+</div>
+
+---
+
+<div align="center">
+
+## Connect
+
+Find me on [Instagram](https://instagram.com/shezzle)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+*Thanks for stopping by*
+
 </div>
