@@ -1,5 +1,3 @@
-##Reivhell
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Reivhell+%F0%9F%91%8B;Software+Engineer+building+scalable+applications;Creating+modern+web+experiences+%26+developer+tools" alt="Typing SVG" />
 </p>
