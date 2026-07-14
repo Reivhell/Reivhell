@@ -70,12 +70,8 @@ I care about:
 ## Featured Projects
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reivhell&theme=github_dark" alt="Profile summary" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Reivhell?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reivhell&repo=README&hide_border=true&theme=transparent" alt="Pinned repository" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Reivhell&repo=README&hide_border=true&theme=tokyonight" alt="Pinned repository" />
   </a>
 </p>
 
@@ -88,15 +84,92 @@ I care about:
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Reivhell&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reivhell&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Reivhell&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Reivhell&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reivhell&theme=algolia&no-frame=true&margin-w=8&column=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Reivhell&theme=onedark&no-frame=true&margin-w=8&column=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reivhell&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## Current Focus
+
+- Building more polished and scalable full stack products
+- Improving backend structure and API design
+- Learning better system design and architecture habits
+- Shipping code that is useful outside the repo
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Reivhell">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building software that is useful, maintainable, and worth keeping.</i>
+</p>
+
+<!--
+  Contribution snake — this widget requires a GitHub Actions workflow, not a static link.
+  Add the file below at .github/workflows/snake.yml in this repository, then reference
+  the generated SVG from the `output` branch as shown underneath.
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+    push:
+      branches:
+        - main
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Reivhell
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  Once the workflow has run at least once and the `output` branch exists, uncomment
+  the block below.
+-->
+
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Reivhell/Reivhell/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+-->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:2563eb&height=100&section=footer" alt="Footer banner" />
+</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reivhell&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
 
