@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Reivhell+%F0%9F%91%8B;Software+Engineer+building+scalable+applications;Creating+modern+web+experiences+%26+developer+tools" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1d4ed8&height=220&section=header&text=Hi%2C%20I'm%20Reivhell%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+building+scalable+applications;Crafting+modern+web+experiences+%26+developer+tools;Focused+on+clean+architecture%2C+performance%2C+and+DX" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,12 +30,18 @@ I care about:
 
 ---
 
-## Current Focus
+## What I Do
 
-- Building web applications with strong structure and clean UI
-- Improving backend design, API quality, and system reliability
-- Exploring automation, AI integration, and productivity tooling
-- Contributing to projects that solve real problems
+<div align="center">
+
+| Area | Focus |
+| --- | --- |
+| Frontend | Responsive UI, component systems, smooth user experience |
+| Backend | APIs, architecture, reliability, and maintainability |
+| Product | Turning ideas into usable, practical software |
+| Tools | Automation, developer workflows, and productivity systems |
+
+</div>
 
 ---
 
@@ -41,31 +51,46 @@ I care about:
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,html,css,git,linux,vscode,figma" alt="Tech Stack" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,vercel,githubactions" alt="More tools" />
+</p>
+
 ---
 
 ## Featured Projects
 
-Here are some projects worth checking out:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reivhell&theme=github_dark" alt="Profile summary" />
+</p>
 
-| Project | What it does |
-| --- | --- |
-| **Project One** | Short description of your best web app or tool. |
-| **Project Two** | Short description of an AI, automation, or developer tool project. |
-| **Project Three** | Short description of a UI/UX, dashboard, or system project. |
-
-> Replace these with your strongest public repositories. Three solid projects are better than ten random ones. Humans love clutter until they have to read it.
+<table align="center">
+  <tr>
+    <td width="33%">
+      <h3 align="center">Project One</h3>
+      <p align="center">Your strongest web app or product. Keep the description short and sharp.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Project Two</h3>
+      <p align="center">An automation, AI, or developer tool project with real utility.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Project Three</h3>
+      <p align="center">A dashboard, system, or UI-focused project that shows design discipline.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Reivhell&show_icons=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reivhell&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Reivhell&show_icons=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reivhell&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Reivhell&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Reivhell&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -82,14 +107,24 @@ Here are some projects worth checking out:
 
 ---
 
+## Current Focus
+
+- Building more polished and scalable full stack products
+- Improving backend structure and API design
+- Learning better system design and architecture habits
+- Shipping code that is useful outside the repo
+
+---
+
 ## Optional Widgets
 
-These are useful if you want the profile to feel more alive, but do not overload the page.
+Use these only if they stay relevant. Too many widgets makes the page feel like a dashboard somebody gave up on halfway through.
 
-- **Contribution Snake**: add a workflow that publishes `output/github-contribution-grid-snake.svg`
-- **WakaTime**: only if you already use it consistently
-- **Spotify Now Playing**: only if you want a personal touch
-- **Latest Blog Posts**: only if you actually write posts
+- Contribution Snake
+- WakaTime stats
+- Latest blog posts
+- Spotify now playing
+- Recent GitHub activity
 
 ---
 
@@ -107,8 +142,15 @@ These are useful if you want the profile to feel more alive, but do not overload
   </a>
 </p>
 
----
-
 <p align="center">
   <i>Building software that is useful, maintainable, and worth keeping.</i>
 </p>
+
+<!-- Snake animation section
+Use a GitHub Action to generate:
+https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg
+Then embed it here:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Reivhell/Reivhell/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+-->
